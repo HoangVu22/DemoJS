@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\VSCode"
+		},
+		{
+			"path": "..\\..\\w3_band"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Study JS"
+	}
+}
